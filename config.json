@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordetch",
+        "uuid": 1515376,
+        "checksum": "gkv89"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
